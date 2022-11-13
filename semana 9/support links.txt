@@ -1,0 +1,27 @@
+https://github.com/ageron/handson-ml3/blob/main/06_decision_trees.ipynb
+https://github.com/ageron/handson-ml3/blob/main/07_ensemble_learning_and_random_forests.ipynb
+https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/
+https://github.com/ageron/handson-ml3/blob/main/06_decision_trees.ipynb
+https://www.aprendemachinelearning.com/random-forest-el-poder-del-ensamble/
+https://github.com/ageron/handson-ml3/blob/main/07_ensemble_learning_and_random_forests.ipynb
+https://github.com/ageron/handson-ml3/blob/main/03_classification.ipynb
+
+
+###########################################
+Limpieza, análisis, visualización y agrupamiento.
+En esta base de datos encontraras:
+
+Aguas subterraneas.
+Aguas superficiales.
+Elige una base de datos, ya sea la de aguas superficiales o la de aguas subterraneas.
+
+Limpieza de base de datos.
+Explorar  cada datos (auxiliate de describe(), mean(), plot, boxplot de pandas):
+    Identificando tendencias centrales promedio, media y mediana de los datos. 
+    Identificar medidas de dispersión, máximo, mínimo .
+    Identificar medidas de posición no centrales , los cuartiles , outliers.   
+    Identificar correlaciones.
+    Preparar los datos 
+Realizar análisis para encontrar si existe una relación entre la calidad del agua y su ubicación geográfica a través de K- means.
+Mostrar resultados de agrupamiento de latitudes y longitudes con K means en el mapa de México.
+##########################################################################
